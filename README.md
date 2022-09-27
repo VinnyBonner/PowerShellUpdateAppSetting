@@ -1,4 +1,4 @@
-# PowerShellUpdateAppSetting
+# Add New App Setting to Function App using Powershell TimerTrigger Function App.
 
 Code showing how to Add a new app settings to a function app using a TimerTrigger Function App.
 
